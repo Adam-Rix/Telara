@@ -1,5 +1,15 @@
+from Telara.Extraction.Extractor import \
+    parse_site,\
+    download_table
+
+
 def Extract():
-    print("Extract tables from the site")
+    # inputs
+    url = input("Enter the required URL: ")
+    filename = input("Enter the desired name for table: ")
+    # calls
+    tables = parse_site(url)
+    download_table(tables, filename)
 
 def Format():
     print("Reformat extracted tables")
