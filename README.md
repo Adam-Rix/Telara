@@ -6,7 +6,7 @@ In versions up to and including 1.0.0, the main focus will be on functions relat
 
 New functionality will be added from version 1.0.1.
 
---
+#
 __init__.py - You need to run this one
 
 Design.py - All good-looking features in the project. 
