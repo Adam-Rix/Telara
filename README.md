@@ -1,4 +1,5 @@
 **TELARA**
+--
 
 The essence of Telara is to be your assistant in the field of data analytics. 
 In versions up to and including 1.0.0, the main focus will be on functions related to the extraction of tables from Internet sites. 
